@@ -8,7 +8,7 @@ const createConnection = async () => {
         host: "localhost",
         port: 3306,
         username: "Shiki",
-        password: "nintendo",
+        password: "132465",
         database: "todosdb",
         synchronize: true,
         entities: [Todo]
